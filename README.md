@@ -1,2 +1,3 @@
-# self-potential-dataset
+# Self Potential Dataset
+
 Self-Potential (SP) Dataset.
