@@ -7,7 +7,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ezygeo-ai/Self-Potential-Dataset)
 
 # Self Potential Dataset
-Self-Potential (SP) Datasets contain two datasets first on is synthetic dataset and second on is real dataset.
+Self-Potential (SP) Datasets contain two datasets first one is synthetic dataset and second one is real dataset.
 
 ## Synthetic SP Dataset
 We created the synthetic dataset for testing neural-network architecture used. This synthetic dataset is created with refering [H.M. El-Kaliouby and M.A. AL-Garni. J. Geophys. Eng. **6** (2009) 29-34](https://academic.oup.com/jge/article/6/1/29/5127394). Below, there are 6125 outputs of data ([SP_Dataset.pickle](https://github.com/ezygeo-ai/Self-Potential-Dataset/blob/master/SP_Dataset.pickle)) and you can get its code [here](https://github.com/ezygeo-ai/Self-Potential-Dataset/blob/master/make_dataset.py):
@@ -17,3 +17,5 @@ We created the synthetic dataset for testing neural-network architecture used. T
 </p>
 
 ## Real SP Dataset
+
+## Testing Using Keras and PyTorch
