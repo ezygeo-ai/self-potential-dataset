@@ -21,14 +21,9 @@ def SPfunc(x, par):
         SPdata.append(var)
 
     # give noise for data (Gaussian distribution)
-    target_snr_db = 25  # set a target SNR
-    x_watts = list(map(lambda xin: pow(xin, 2), SPdata))
-    sig_avg_watts = np.mean(x_watts)
-    sig_avg_db = 10 * np.log10(sig_avg_watts)
-    noise_avg_db = sig_avg_db - target_snr_db
-    noise_avg_watts = 10 ** (noise_avg_db / 10)
+    std_noise = 10
     mean_noise = 0
-    noise_data = np.random.normal(mean_noise, np.sqrt(noise_avg_watts), len(SPdata))
+    noise_data = np.random.normal(mean_noise, np.sqrt(std_noise), len(SPdata))
     SPdata_noise = SPdata + noise_data
 
     return SPdata_noise
