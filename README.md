@@ -1,5 +1,6 @@
 [![HitCount](http://hits.dwyl.com/ezygeo-ai/self-potential-dataset.svg)](http://hits.dwyl.com/ezygeo-ai/self-potential-dataset)
 ![GitHub contributors](https://img.shields.io/github/contributors/ezygeo-ai/self-potential-dataset)
+![GitHub last commit](https://img.shields.io/github/last-commit/ezygeo-ai/self-potential-dataset)
 ![GitHub top language](https://img.shields.io/github/languages/top/ezygeo-ai/Self-Potential-Dataset)
 ![GitHub language count](https://img.shields.io/github/languages/count/ezygeo-ai/Self-Potential-Dataset)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ezygeo-ai/Self-Potential-Dataset)
