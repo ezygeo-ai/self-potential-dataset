@@ -1,10 +1,10 @@
 [![HitCount](http://hits.dwyl.com/ezygeo-ai/self-potential-dataset.svg)](http://hits.dwyl.com/ezygeo-ai/self-potential-dataset)
 ![GitHub contributors](https://img.shields.io/github/contributors/ezygeo-ai/self-potential-dataset)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/28696953)
 ![GitHub top language](https://img.shields.io/github/languages/top/ezygeo-ai/Self-Potential-Dataset)
 ![GitHub language count](https://img.shields.io/github/languages/count/ezygeo-ai/Self-Potential-Dataset)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ezygeo-ai/Self-Potential-Dataset)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ezygeo-ai/Self-Potential-Dataset)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/28696953)
 
 # Self Potential Dataset
 Self-Potential (SP) Datasets contain two datasets first one is synthetic dataset and second one is real dataset.
