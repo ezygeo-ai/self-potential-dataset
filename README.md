@@ -17,11 +17,16 @@ We created the synthetic dataset for testing neural-network architecture used. T
   <img src="https://github.com/ezygeo-ai/Self-Potential-Dataset/blob/master/SP_datasets.png" width="50%" href="https://ezygeo.com/2019/10/28/self-potential-datasets/">
 </p>
 
+**Input Layer**: Location and SP data.
+**Output Layer**: centre of the sheet, halfwidth of the sheet, polarization amplitude, zero distance from the origin, and angle of inclination of the sheet.
+
 ## Real SP Dataset
 Google has [Google Dataset Search](https://toolbox.google.com/datasetsearch) for getting [Real SP Data](https://toolbox.google.com/datasetsearch/search?query=self-potential&docid=XeF5UDUFSocm8R%2F8AAAAAA%3D%3D), such us:
 1. Self-Potential Survey, Roosevelt Hot Springs, Utah [link](https://catalog.data.gov/dataset/self-potential-survey-roosevelt-hot-springs-utah)
 2. 14.86 km Profiles of the Electric and Self-potential Fields Measured in the Lower Guadalupe River Channel, Texas Interior Gulf Coastal Plain, September 2016 [link](https://data.doi.gov/dataset/14-86-km-profiles-of-the-electric-and-self-potential-fields-measured-in-the-lower-guadalup-2016)
 3. Self-potential power spectral density from 2012 to 2017 [link](https://data.mendeley.com/datasets/97m454zgc6/1) 
+
+## Annotation Tool for SP Data
 
 ## Testing Using TensorFlow and PyTorch
 #### PyTorch
